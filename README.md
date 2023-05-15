@@ -84,5 +84,32 @@ numero_de_ceros = Lista.count(0) # se define numero_de_ceros como el contador de
 print("El numero de ceros en la lista es " + str(numero_de_ceros)) # Se imprime el numero de ceros en la lista 
 ```
 
+## :seedling: 4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación):evergreen_tree:
+
+:anger:El algoritmo de ordenamiento de burbuja, también conocido como Bubble Sort en inglés, es un método simple para ordenar una lista o arreglo de elementos. Su nombre se debe a que los elementos más grandes "burbujean" hacia arriba a medida que se comparan y se intercambian a lo largo del arreglo hasta que todos los elementos estén en su posición correcta.
+
+El algoritmo funciona de la siguiente manera:
+
+Comenzando desde el primer elemento, se comparan los pares adyacentes de elementos en el arreglo.
+Si el par de elementos está en el orden incorrecto (el elemento de la derecha es menor que el de la izquierda), se intercambian.
+Se repite el paso anterior para cada par de elementos adyacentes a lo largo del arreglo, desde el principio hasta el final.
+Una vez completado un recorrido completo del arreglo, el elemento más grande se coloca en la posición final.
+Se repiten los pasos 1 al 4 para el resto del arreglo, excluyendo el último elemento en cada iteración, ya que ya está en su posición correcta.
+El algoritmo continúa iterando sobre el arreglo hasta que todos los elementos estén ordenados en forma ascendente.
+Ventajas del Bubble Sort:
+
+Es fácil de entender e implementar.
+No requiere espacio adicional de memoria.
+Es adaptable a diferentes tipos de datos.
+Es un algoritmo de ordenamiento estable, lo que significa que los elementos con el mismo valor mantienen su orden relativo en la salida ordenada.
+Desventajas del Bubble Sort:
+
+Referencia: Bubble Sort - GeeksforGeeks 
+
+
+
+
+
+
 
 ##  :collision::collision: Gracias por su atencion espero les sirva de ayuda, vamos Manchester City!!!!! :blue_heart::blue_heart::blue_heart:  :collision::collision:
