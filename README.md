@@ -85,4 +85,4 @@ print("El numero de ceros en la lista es " + str(numero_de_ceros)) # Se imprime 
 ```
 
 
-##  :collision::collision: Gracias por su atencion espero les sirva de ayuda, vamos Manchester City!!!!! :blue_heart::blue_heart::blue_heart: Posdata( Feliz dia del profesor, profesor Felipe) :collision::collision:
+##  :collision::collision: Gracias por su atencion espero les sirva de ayuda, vamos Manchester City!!!!! :blue_heart::blue_heart::blue_heart:  :collision::collision:
