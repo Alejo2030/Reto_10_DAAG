@@ -4,9 +4,9 @@
 # Iniciemos con el reto 10
 
 
-## 1.Desarrollar un algoritmo que calcule el promedio de un arreglo de reales. 
+## :seedling: 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.  :evergreen_tree:
 
-## Codigo
+## :anger: Codigo :anger:
 
 ```ruby 
 
@@ -24,9 +24,9 @@ print( "El promedio de este arreglo es: " + str(promedio_lista)) # Dar el promed
 
 ```
 
-## 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
+## :seedling: 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño. :evergreen_tree:
 
-## Codigo
+## :anger: Codigo :anger:
 
 ```ruby 
 #2.Reto 10
@@ -67,9 +67,9 @@ if producto is not None:
     print("El producto punto es:" +  str(producto))
 
 ```
-## 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo. 
+## :seedling: 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo. :evergreen_tree:
 
-## Codigo 
+## :anger: Codigo :anger:
 
 ```ruby
 # 3.Reto 10
@@ -85,4 +85,4 @@ print("El numero de ceros en la lista es " + str(numero_de_ceros)) # Se imprime 
 ```
 
 
-## Gracias por su atencion espero les sirva de ayuda, vamos manchester city!!!!! Posdata( Feliz dia del profesor, profesor Felipe)
+##  :collision::collision: Gracias por su atencion espero les sirva de ayuda, vamos manchester city!!!!! Posdata( Feliz dia del profesor, profesor Felipe) :collision::collision:
