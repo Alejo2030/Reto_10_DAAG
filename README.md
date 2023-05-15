@@ -8,7 +8,7 @@
 
 ## Codigo
 
-``ruby 
+```ruby 
 
 #1.Reto 10 
 lista_elementos = []# Crear una lista vacia 
@@ -22,5 +22,5 @@ sumar_lista = sum(lista_elementos) # Se suman los elementos de la lista
 promedio_lista= sum(lista_elementos)/ len(lista_elementos) # Se define promedio como la divison de la suma de los elementos y el numero de elementos 
 print( "El promedio de este arreglo es: " + str(promedio_lista)) # Dar el promedio de la lista 
 
-``
+```
 
