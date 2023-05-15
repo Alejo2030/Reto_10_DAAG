@@ -6,7 +6,7 @@
 
 ## :seedling: 1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.  :evergreen_tree:
 
-## :anger: Codigo :anger:
+## :anger: Código :anger:
 
 ```ruby 
 
@@ -26,7 +26,7 @@ print( "El promedio de este arreglo es: " + str(promedio_lista)) # Dar el promed
 
 ## :seedling: 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño. :evergreen_tree:
 
-## :anger: Codigo :anger:
+## :anger: Código :anger:
 
 ```ruby 
 #2.Reto 10
@@ -69,7 +69,7 @@ if producto is not None:
 ```
 ## :seedling: 3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo. :evergreen_tree:
 
-## :anger: Codigo :anger:
+## :anger: Código :anger:
 
 ```ruby
 # 3.Reto 10
