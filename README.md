@@ -86,7 +86,7 @@ print("El numero de ceros en la lista es " + str(numero_de_ceros)) # Se imprime 
 
 ## :seedling: 4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación):evergreen_tree:
 
-:anger:El algoritmo de ordenamiento de burbuja, también conocido como Bubble Sort en inglés, es un método simple para ordenar una lista o arreglo de elementos. Su nombre se debe a que los elementos más grandes "burbujean" hacia arriba a medida que se comparan y se intercambian a lo largo del arreglo hasta que todos los elementos estén en su posición correcta.
+### :anger:El algoritmo de ordenamiento de burbuja, también conocido como Bubble Sort en inglés, es un método simple para ordenar una lista o arreglo de elementos. Su nombre se debe a que los elementos más grandes "burbujean" hacia arriba a medida que se comparan y se intercambian a lo largo del arreglo hasta que todos los elementos estén en su posición correcta.
 
 El algoritmo funciona de la siguiente manera:
 
